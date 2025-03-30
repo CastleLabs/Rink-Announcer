@@ -22,7 +22,6 @@ The Rink Announcement System automates announcements at the Castle Fun Center ro
 - Python 3.8+
 - Microsoft SQL Server database connection
 - mpg123 (for audio playback)
-- Internet connection (for Edge TTS)
 - systemd-compatible Linux environment
 
 ## Python Dependencies
