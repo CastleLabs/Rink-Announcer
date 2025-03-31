@@ -1,9 +1,5 @@
 # Rink Announcement System
 
-**Author:** Seth Morrow  
-**Date:** March 30, 2025  
-**For:** Castle Fun Center Roller Rink
-
 ## Overview
 
 The Rink Announcement System automates announcements at the Castle Fun Center roller rink, managing session times based on color-coded wristbands. The system announces when specific color wristbands have expired, plays rules announcements, and allows for custom announcements.
